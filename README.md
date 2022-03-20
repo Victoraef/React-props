@@ -1,2 +1,2 @@
 # React-props
-Aqui utilizo {props.name} que são componentes e e assim deixando dinâmicos !
+Aqui utilizo {props.} e mostro uma forma de deixa-los dinâmicos !
